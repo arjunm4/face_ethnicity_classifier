@@ -5,7 +5,7 @@ A deep learning project using PyTorch to classify ethnicity from facial images.
 ## Setup
 
 1. Create virtual environment: `python -m venv face_env`
-2. Activate environment: `source face_env/bin/activate` (Mac/Linux)
+2. Activate environment: `source face_env/bin/activate` 
 3. Install dependencies: `pip install -r requirements.txt`
 
 ## Project Structure
