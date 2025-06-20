@@ -10,6 +10,7 @@ A deep learning project using PyTorch to classify ethnicity from facial images.
 
 ## Project Structure
 face_ethnicity_classifier/
+
 ├── data/                 # Dataset storage
 ├── models/               # Model definitions and saved models
 ├── utils/                # Utility functions
