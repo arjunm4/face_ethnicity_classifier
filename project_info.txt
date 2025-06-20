@@ -1,0 +1,21 @@
+FACE ETHNICITY CLASSIFICATION PROJECT
+=====================================
+
+Created: $(date)
+Python Version: $(python --version)
+Virtual Environment: face_env
+
+Project Structure:
+- data/: Dataset storage and processing
+- models/: Model architectures and saved models  
+- utils/: Utility functions and helper scripts
+- notebooks/: Jupyter notebooks for experimentation
+- scripts/: Main training and inference scripts
+- results/: Output plots, logs, and results
+
+Next Steps:
+1. Download and prepare dataset
+2. Create data loading utilities
+3. Implement model architecture
+4. Create training pipeline
+5. Implement inference and evaluation
